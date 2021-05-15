@@ -57,3 +57,16 @@ footer .link {
 footer p {
 	font-size: 0.8em;
 }
+
+@media (prefers-color-scheme: dark) {
+	body {
+		background: #000;
+		color: #eee;
+	}
+	.block1 {
+		background: #111;
+	}
+	.block2 {
+		background: #222;
+	}
+}
