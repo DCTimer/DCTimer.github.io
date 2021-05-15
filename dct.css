@@ -63,10 +63,20 @@ footer p {
 		background: #000;
 		color: #eee;
 	}
+	a {
+		color: #88e;
+	}
+	p, h3 {
+		color: #eee;
+	}
+	header {
+		background: #ee121212;
+		border-bottom: solid 1px #333;
+	}
 	.block1 {
-		background: #111;
+		background: #212121;
 	}
 	.block2 {
-		background: #222;
+		background: #303030;
 	}
 }
